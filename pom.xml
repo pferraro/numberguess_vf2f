@@ -200,7 +200,7 @@ wildfly-maven-plugin
                             <layers>
                                 <layer>cloud-server</layer>
                             </layers>
-                            <filename>ROOT.war</filename>
+                            <filename>numberguess.war</filename>
                         </configuration>
                         <executions>
                             <execution>

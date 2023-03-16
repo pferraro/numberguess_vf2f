@@ -185,7 +185,6 @@
                 <plugins>
                     <plugin>
                         <groupId>org.wildfly.plugins</groupId>
-wildfly-maven-plugin
                         <artifactId>wildfly-maven-plugin</artifactId>
                         <version>${version.wildfly.maven.plugin}</version>
                         <configuration>
@@ -200,7 +199,7 @@ wildfly-maven-plugin
                             <layers>
                                 <layer>cloud-server</layer>
                             </layers>
-                            <filename>numberguess.war</filename>
+                            <filename>ROOT.war</filename>
                         </configuration>
                         <executions>
                             <execution>

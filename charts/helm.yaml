@@ -1,6 +1,6 @@
 build:
   uri: https://github.com/pferraro/numberguess_vf2f.git
   ref: main
-  contextDir: numberguess
+  contextDir: numberguess_vf2f
 deploy:
   replicas: 1
